@@ -26,4 +26,10 @@ TabPlayPause is a lightweight Chrome extension that automatically pauses YouTube
 Feel free to contribute! Fork the repository, make changes, and submit a pull request. 🚀
 
 ---
-🔗 [GitHub Repository](https://github.com/Yuvraj-Badmal/TabPlayPause-YoutubeAutoPlayPauseChromeExtension)
+
+### **📢 Contact & Support**  
+
+💬 Have questions or feature requests? Open an issue!  
+📧 Email: badmal.uv@gmail.com 
+
+---
